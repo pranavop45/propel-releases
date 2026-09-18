@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.alt="Propel">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.;Built+for+a+Better+Windows+Experience." alt="Propel">
 
 <br>
 
@@ -14,6 +14,10 @@
 
 <br>
 
+<a href="https://cleanmasterpro.in">
+  <img src="https://img.shields.io/badge/WEBSITE-5aa63c?style=flat-square&label=PROPEL">
+</a>
+&nbsp;
 <a href="https://github.com/pranavop45/propel-releases/releases/latest">
   <img src="https://img.shields.io/github/v/release/pranavop45/propel-releases?style=flat-square&color=5aa63c&label=LATEST">
 </a>
@@ -26,7 +30,7 @@
 
 <br><br>
 
-<a href="https://github.com/pranavop45/propel-releases/releases/latest">
+<a href="https://cleanmasterpro.in">
   <img src="https://img.shields.io/badge/↓%20DOWNLOAD%20PROPEL-5aa63c?style=for-the-badge&logoColor=white">
 </a>
 
@@ -119,8 +123,16 @@ A refined Propel experience with improvements across the application.
 
 ### GET PROPEL
 
-<a href="https://github.com/pranavop45/propel-releases/releases/latest">
+<a href="https://cleanmasterpro.in">
   <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST-5aa63c?style=for-the-badge">
+</a>
+
+<br><br>
+
+<a href="https://cleanmasterpro.in">
+
+**cleanmasterpro.in**
+
 </a>
 
 <br><br>
