@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.;Built+for+a+Better+Windows+Experience." alt="Propel">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.;Built+for+Windows." alt="Propel">
 
 <br>
 
@@ -48,11 +48,14 @@
 
 <br>
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="260">
 
 ### ⚡
+
 **Performance**
 
 Keep an eye on your system  
@@ -60,9 +63,10 @@ and stay in control.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="260">
 
 ### ✦
+
 **System Care**
 
 Clean up the unnecessary  
@@ -70,9 +74,10 @@ without the clutter.
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="260">
 
 ### ◌
+
 **Smart Tools**
 
 Useful tools, thoughtfully  
@@ -81,6 +86,8 @@ put in one place.
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
