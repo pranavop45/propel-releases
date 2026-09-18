@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.;Built+for+a+Better+Windows+Experience." alt="Propel">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=1200&color=5AA63C&center=true&vCenter=true&width=700&lines=PROPEL;System+Care%2C+Simplified.alt="Propel">
 
 <br>
 
